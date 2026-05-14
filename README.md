@@ -16,13 +16,19 @@ nc289171
 
 【アプリのダウンロード】
 
-ニコメア Excel版 
+Windows版
 
-https://drive.google.com/uc?id=1zoqFL56NJ2-aJ4fMyxI-s-VT-FQBl3ak
+https://github.com/vramwiz/Nicomea-site/releases/
 
 
 
-ニコメア GoogleChrome版 
+ニコメア Excel版
+
+https://github.com/vramwiz/Nicomea-site/blob/main/docs/files/NicomeaEx.zip
+
+
+
+ニコメア GoogleChrome版
 
 https://colab.research.google.com/drive/1a3oWhs\_P118CXGD6m0Sm7vNZeHnxmu-o?usp=sharing
 
